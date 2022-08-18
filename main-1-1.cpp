@@ -11,6 +11,5 @@ int main(int argc, char **argv){
 
     string_2d_copy(first,second,3);
 
-    cout << second[0][0] << endl;
     return 0;
 }
